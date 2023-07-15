@@ -1,6 +1,6 @@
 # OBJECT VALIDATION AND CONVERSION WITH MARSHMALLOW
 
-[![CircleCI](https://github.com/CIRCLECI-GWP/object-validation-and-conversion-marshmallow.svg?style=svg)](https://github.com/CIRCLECI-GWP/object-validation-and-conversion-marshmallow)
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/object-validation-and-conversion-marshmallow.svg?style=svg)](https://circleci.com/CIRCLECI-GWP/object-validation-and-conversion-marshmallow)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
