@@ -10,7 +10,7 @@ from sqlalchemy.sql import func
 
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 
-# Initializing flask application
+# Initializing application
 app = Flask(__name__)
 
 # Add SQLAlchemy
